@@ -1,5 +1,5 @@
 ---
-- hosts: Linux_SQL_servers
+- hosts: localhost
   name: Removes mssql-server
   become: yes
 
